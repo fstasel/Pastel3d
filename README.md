@@ -11,6 +11,7 @@ Features:
 - Utilized 32-bit floating point module
 - Supports 2 types of objects currently (infinite plane / checkerboard and sphere)
 - 1 light source (white color)
+- Fast text rendering mode
 
 Important:
 - You need KickAssembler to assemble the code.
