@@ -17,6 +17,7 @@ Important:
 - The file "settings.inc" stores the scene information.
 - You can use "display.prg" to display images.
 - A C64 emulator with turbo mode is recommended (Rendering process is too slow).
+- The files "Test*" are example output files that can be loaded from "display.prg".
 
 Future work:
 - Provide modularity by separating color conversion module from rendering module.
