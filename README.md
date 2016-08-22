@@ -1,5 +1,5 @@
 # Pastel3d
-A 3D Renderer Project for Commodore 64
+A 3D Renderer Project for Commodore 64 by FST
 
 Pastel3d is an experimental 3D rendering program for Commodore 64.
 
@@ -9,6 +9,8 @@ Features:
 - Uses dithering to match the color
 - Supports Lores (MCM), Hires and Laced modes
 - Utilized 32-bit floating point module
+- Supports 2 types of objects currently (infinite plane / checkerboard and sphere)
+- 1 light source (white color)
 
 Important:
 - You need KickAssembler to assemble the code.
@@ -20,3 +22,4 @@ Future work:
 - Provide modularity by separating color conversion module from rendering module.
 - FLI, IFLI modes
 - Fixed point artihmetic for speed-up
+- 1st order reflections
