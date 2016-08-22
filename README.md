@@ -5,7 +5,7 @@ Pastel3d is an experimental 3D rendering program for Commodore 64.
 
 Features:
 - Works by projecting rays from the surface of geometrical objects without using meshes.
-- Based on 24-HSL color space
+- Based on 24-bit HSL color space
 - Uses dithering to match the color
 - Supports Lores (MCM), Hires and Laced modes
 - Utilized 32-bit floating point module
