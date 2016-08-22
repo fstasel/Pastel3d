@@ -25,3 +25,4 @@ Future work:
 - FLI, IFLI modes
 - Fixed point artihmetic for speed-up
 - 1st order reflections
+- Casting shadows
